@@ -1,0 +1,687 @@
+1. exchange         - обмен
+2. effort           - усилие
+3. robust           - здрав, силен, як
+4. hang             - вися
+5. hang out         - to spend a lot of time in a place or with someone
+6. encourage        - окуражавам
+7. intercept        - откъсване, отсечка, пресрещам, заобграждам
+8. derive           - извличам
+--------------------
+9. connectivity     - свързаност
+10. diverse         - разнообразен
+11. enrich          - обогатявам
+12. broad           - широк, обширен, общ
+13. correlation     - взаимна връзка
+14. detection       - откриване
+15. supply          - снабдяване, захранване
+16. approach        - подход, доближавам, приближавам
+--------------------
+17. collapse        - срутване, разпадане, рухвам, срутвам се
+18. padding         - подложка, подплънка
+19. retrieve        - извличам (get or bring (something) back; regain possession of.)
+20. disaster        - бедствие
+21. аccording       - съгласно, според
+22. entire          - whole or complete, with nothing missing
+23. traverse        - прекосявам, преминавам
+24. hammer          - чук, кова
+25. hyphen          - слагам тире
+26. breakthrough    - пробив, важно научно откритие
+--------------------
+27. anxious         - разтревожен, неспоен
+29. debt            - дълг
+30. interaction     - взаимодействие
+31. consider        - обмислям, разглеждам (think carefully about (something), typically before making a decision)
+32. extensive       - обширен, широк
+33. blame           - вина, осъждам
+34. citizen         - гражданин
+35. disappear       - изчезвам, губя се
+36. dismiss         - отхвърлям
+37. elsewhere       - другаде
+38. gradually       - постеменно
+39. grave           - гроб, гибел, сериозен, тежък
+40. guideline       - насока
+41. consumer        - консуматор, потребител
+*42. concerned       - обеспокоен, засегнат (worried, troubled, or anxious)
+43. unlike          - за разлика от
+44. immerse         - потапям, заравям
+45. confident       - уверен, сигурен (feeling or showing confidence in oneself; self-assured)
+46. observe         - наблюдавам (notice or perceive (something) and register it as being significant)
+47. obvious         - очевидно, ясно (easily perceived or understood; clear, self-evident, or apparent)
+48. aim             - цел, стремеж, намерение (a purpose or intention; a desired outcome)
+49. engaging        - привлекателен
+*50. toward          - по посока на; към; going on; in progress (in the direction of)
+--------------------
+*51. desperate       - отчаян, безнадежден
+52. perceive        - възприемам (become aware or conscious of (something); come to realize or understand)
+*53. aware           - осведомявам (having knowledge or perception of a situation or fact)
+*54. conscious       - в съзнание, съзнателен
+	- be conscious of sth/sb - to notice that a particular thing or person exists or is present (Ех: My tooth doesn't exactly hurt, but I'm conscious of it (= I can feel it) all the time.)
+	- awake, thinking, and knowing what is happening around you 
+55. awake           - буден (not asleep)
+56. asleep          - заспал (in or into a state of sleep)
+57. significant     - значим, важен (sufficiently great or important to be worthy of attention; noteworthy)
+58. intention       - намерение (a thing intended; an aim or plan) (in?tenCH?n)
+*59. charming        - очерователен (pleasant or attractive) (?CHarmiNG)
+*60. consent         - съгласие (permission for something to happen or agreement to do something)
+61. apparent        - очевидно (clearly visible or understood; obvious)
+*62. essential       - съществен, основен (absolutely necessary; extremely important)
+63. mature          - зрял, напълно развит (fully developed physically; full-grown)
+64. struggle        - борба (a forceful or violent effort to get free of restraint or resist attack)
+65. forceful        - силен ((especially of a person or argument) strong and assertive; vigorous and powerful.)
+66. resist          - противопоставям се
+--------------------
+67. secular         - светски (denoting attitudes, activities, or other things that have no religious or spiritual basis)
+68. denote          - обозначавам, означавам (be a sign of; indicate)
+69. attitude        - поведение (a settled way of thinking or feeling about someone or something, typically one that is reflected in a person's behavior)
+70. settle          - уреждам, настанявам, установявам (resolve or reach an agreement about (an argument or problem))
+71. disciple        - ученик, последовател
+72. flame           - пламък, огън
+73. wither          - посървам, вехна ((of a plant) become dry and shriveled.)
+74. gentile         - езичник (a person who is not Jewish) (?jentil)
+75. topic           - тема, въпрос (a matter dealt with in a text, discourse, or conversation; a subject.)
+76. discourse       - беседа, лекция (written or spoken communication or debate)
+77. literally       - буквално (in a literal manner or sense; exactly)
+78. totally         - напълно, изцяло (completely; absolutely)
+79. casually        - случайно (accidentally)
+80. casual          - небрежно (relaxed and unconcerned)
+81. duty            - задължение (a moral or legal obligation; a responsibility)
+82. watch out       - внимавай (be careful)
+83. hatred          - ненавист (intense dislike or ill will)
+84. ill will        - злонамерен (animosity)
+85. animosity       - враждебен (strong hostility) (?an??masite)
+86. sing out        - викам, провиквам се, пея
+87. mock            - имитация, подигравка (not authentic or real, but without the intention to deceive)
+88. deceive         - мамя, заблуждавам
+89. decouple        - разграничавам (separate, disengage, or dissociate (something) from something else)
+90. brace           - скоба, стягам
+--------------------
+91. fetch           - донасям, отивам да взема
+92. ingenious       - изобретателен, остроумен, находчив ((of a person) clever, original, and inventive)
+93. chunk           - буца (дебела, солидна част от нещо)
+94. patch           - кръпка
+95. notably         - особено, значително (especially; in particular)
+96. origin          - произход, начало (the point or place where something begins, arises, or is derived)
+97. attempt         - опит (an act of trying to achieve something, typically one that is unsuccessful or not certain to succeed)
+98. achieve         - постигам, извършвам (reach or attain (a desired objective, level, or result) by effort, skill, or courage)
+99. impose          - налагам, натрапвам (force (something unwelcome or unfamiliar) to be accepted or put in place)
+100. postman        - пощаджия (a mail carrier)
+101. appreciate     - ценя, благодарен съм
+102. I don't mind   - няма проблеми; всичко е наред
+103. plenty         - много, достатъчно
+104. actually       - всъщност
+105. disappoint     - разочаровам
+106. launch         - хвърлям (lonCH)
+107. fate           - съдба, участ
+--------------------
+108. attain         - to reach or succeed in getting something
+109. affinity       - афинитет (a spontaneous or natural liking or sympathy for someone or something)
+110. pivot          - опорна точка, ос на въртене, център
+111. abuse          - злоупотреба
+112. reasonably     - разумно
+113. failover       - срив (a method of protecting computer systems from failure)
+114. investigate    - разследвам, изследвам
+115. due to         - поради
+116. fairly         - сравнително
+117. accuse         - обвинявам
+118. consideration  - разглеждане, обсъждане (careful thought, typically over a period of time)
+119. propagate      - размножавам, плодя
+--------------------
+120. certain        - определен, сигурен (known for sure; established beyond doubt)
+121. оverwhelmed    - изумявам
+122. absence        - отсъствие (?abs?ns)
+123. absorb         - попивам, абсорбирам (?b?zorb)
+124. barely         - едва, само (only just; almost not) (?be(?)rle)
+125. belief         - вяра, убеждение
+126. bother         - безпокоя (effort, worry, or difficulty) (?baT?H?r)
+127. boundary       - граница (a line that marks the limits of an area; a dividing line)
+128. divide         - разделям, деля 
+129. tension        - напрежение
+130. tight          - стегнат
+--------------------
+131. cast           - хвърлям, отливам (1. an object made by shaping molten metal or similar material in a mold; 2. an act of throwing something forcefully)
+132. chamber        - камера (a large room used for formal or public events)
+133. charity        - благотворителност 
+134. chase          - преследване (an act of pursuing someone or something)
+135. pursue         - преследване (follow (someone or something) in order to catch or attack them)
+136. demand         - искам, изисквам; търсене, искане
+	- to ask for something forcefully, in a way that shows that you do not expect to be refused
+	- to need something such as time, effort, or a particular quality
+137. insistent      - настойчив, упорит 
+138. peremptory     - безапелациионен, властен, решителен (p??rempt?re)
+139. deserve        - заслужавам, достоен съм за (do something or have or show qualities worthy of (reward or punishment))
+140. reward         - награда
+141. weave          - тъка, преплитам
+142. headline       - заглавие
+--------------------
+143. make sense     - има смисъл, важно е
+144. pronunciation  - проинзношение
+145. vocabulary     - речник; богатство на думи, които човек има
+146. constantly     - постоянно, непрекъснато
+147. generalist     - общопрактикуващ (a person competent in several different fields or activities)
+148. aid            - помощ (help)
+149. slump          - свличам се (sit, lean, or fall heavily and limply, especially with a bent back)
+150. lean           - облягам (глагол); слаб, сух, крехък (прилагателно)
+151. curiosity      - любопитство, любознателност (a strong desire to know or learn something)
+153. mention        - споменаване, посочване (a reference to someone or something.)
+152. meantime       - междувременно (meanwhile)
+154. melt           - стопявам, разтапям (an act of melting)
+155. compromise     - правя компромис 
+--------------------
+156. adapt          - адптирам, приспособявам (make (something) suitable for a new use or purpose; modify)
+157. wipe           - изтривам, избърсвам (rub)
+158. peace of mind  - липса на притеснение (the absence of worry)
+159. I'm fond of    - обичам
+160. splendid       - прекрасно (magnificent; very impressive)
+161. terrific       - чудесно (fine, great, wonderful)
+162. lovely         - прекрасно
+163. exhausted      - изтощен, изморен (ig?zostid)
+164. awfully        - много
+165. left out       - изпускам, оставям навън
+166. embarrass      - затруднявам, засрамвам (cause (someone) to feel awkward, self-conscious, or ashamed)
+167. expose         - излагам, разкривам (make (something) visible, typically by uncovering it)
+168. common sense   - здрав разум (good sense and sound judgment in practical matters)
+169. matter         - значение, въпрос
+170. gumption       - съобразителност
+--------------------
+171. shrewd         - хитър, проницателен
+172. sharp          - остър, рязък, ясен ((of an object) having an edge or point that is able to cut or pierce something)
+173. weary          - изтощен (exhausted)
+174. give up        - предавам се
+175. abandon
+	- изоставям; to leave a place, thing, or person, usually for ever (Ex: As a baby he was abandoned by his mother.)
+	- оставям; to stop doing an activity before you have finished it (Ex: The game was abandoned at half-time because of the poor weather conditions.)
+176. cease          - спирам, преустановявам (bring or come to an end)
+177. accompany      - придружавам, съпровождам (??k?mp(?)ne)
+179. intended       - предназначено, планирано, замислено (planned or meant)
+178. companion      - другар (a person or animal with whom one spends a lot of time)
+180. notion         - понятие, предтава, идея (a conception of or belief about something)
+181. sudden         - внезапен, неочакван
+182. mood           - настроение
+183. accomplish     - постигам, реализирам, завършвам
+184. bond           - връзка, окови (physical restraints used to hold someone or something prisoner, especially ropes or chains.)
+--------------------
+185. brief          - кратък, къс (of short duration) (bref)
+186. endless        - безкраен (having or seeming to have no end or limit.)
+189. got it         - сетих се; разбра ли? (по-тежко)
+190. scold          - мъмря, хокам
+191. muddy          - кален
+192. get it         - разбрах, разбра ли? (по-меко)
+193. distract       - разсейвам (prevent (someone) from giving full attention to something)
+194. dedicated      - посветен, отдаден
+195. devote         - осветен, отдаден
+196. encounter             
+	- a meeting, especially one that happens by chance (I had an alarming encounter with a wild pig)
+	- an occasion when two teams play against each other (In their last encounter with Italy, England won 3–2.)
+197. accommodation  - настаняване, квартира
+198. estimate       - приблизителна оценка, преценка
+199. blind          - сляп, щора
+200. indeed         - наистина (used to emphasize a statement or response confirming something already suggested)
+--------------------
+201. justify        - оправдавам се, извинявам (show or prove to be right or reasonable)
+202. interrupt      - прекъсвам (stop the continuous progress of (an activity or process).)
+203. last long      - трае дълго, продължава дълго
+204. mindful        - загрижен, грижовен
+205. ridiculous     - смешно, нелепо
+206. household      - домакинство
+207. chore          - шетане (a routine task, especially a household one)
+208. scrub          - почистване, търкане
+209. lid            - капак
+210. hamper         - кошница
+211. occasion       - повод, случай (a particular time or instance of an event)
+212. bishop         - епископ
+213. priest         - свещеник
+214. cope           - справям се ((of a person) deal effectively with something difficult)
+--------------------
+215. crop           - реколта
+216. dining         - трапезария, вечерям
+217. tedious        - скучно, досадно (dull)
+218. prodigal       - разсипник, блуден син 
+219. masterpiece    - шедьовър
+220. coast          - крайбрежие, морски бряг
+221. cognition      - познание, знание (knowledge)
+222. cognitive      - познавателен
+223. 
+	- commit                - to do something illegal or something that is considered wrong (He was sent to prison for a crime that he didn't commit.)
+	- commit                - to promise or give your loyalty, time, or money to a particular principle, person, or plan of action (Like so many men, he has problems committing himself to a relationship.)
+	- commit yourself       - to express an opinion or to make a decision that you tell people about (I think I can come but I won't commit myself till I know for sure.)
+224. perpetrate     - извършвам престъпление
+225. collaboration  - сътрудничество, състна работа
+226. pertain        - отнасям се, принадлежа
+227. appropriate    - подходяш, уместен (suitable or proper in the circumstances.)
+228. regression     - упадък
+--------------------
+229. forecast       - прогноза, предвиждане
+230. extraction     - извличане, добиване (the action of taking out something, especially using effort or force.)
+231. incorporate    - включвам (take in or contain (something) as part of a whole; include)
+232. further        - допълнително, още 
+233. liking         - вкус, симпатия (taste, sympathy)
+234. refund         - възстановяване (на пари)
+235. come across    - натъквам се
+236. airline        - авиолиния
+237. fasten         - завързвам, събирам (?fas?n)
+238. claim          - иск, претенция, твърдение 
+239. assertion      - твърдение (a confident and forceful statement of fact or belief)
+240. conclusion     - заключение (the end or finish of an event or process)
+241. considerable   - значителен, доста голям (notably large in size, amount, or extent)
+242. controversial  - спорен, дискусионен
+--------------------
+243. convince       - убеждавам
+244. firmly         - твърдо, здраво
+245. dissatisfied   - недоволен, неудовлетворен
+246. entitled       - давам право, упълномощавам (give (someone) a legal right or a just claim to receive or do something)
+247. proclaim       - обявявам, заявявам
+248. blade          - острие
+249. breast         - гърди (brest)
+250. ceiling        - таван
+251. compartment    - отделение (k?m?partm?nt)
+252. certainly      - undoubtedly; definitely; surely
+253. undoubtedly    - несъмнено, безпорно (without doubt; certainly)
+254. doubt          - съмнение (a feeling of uncertainty or lack of conviction)
+255. uncertainty    - несигурност; unpredictability (the state of being uncertain)
+256. conviction     - убеждение; belief
+--------------------
+257. held (hold)    - държа, задържам keep or detain (someone)
+258. unwaveringly   - непоколебимо (firmly, steadfastly)
+259. substitute     - заместител, заместник (replacement)
+260. content        - задоволямвам, доволен съм (satisfy)
+261. suspicion      - подозрение, съмнение (mistrust, doubt)
+262. slight         - лек, слаб; small, modest, tiny
+263. modest         - скромен, непритенциозен (humble)
+264. humble         - смирен, покорен (modest, meek)
+265. affordable     - inexpensive; reasonably priced (на разумни цени)
+266. stressed out   - стресиран
+267. benefit        - облага (convenience)
+268. profit         - gain, earnings (печалба)
+269. superficial    - повърхностен
+270. porch          - веранда, тераса
+--------------------
+271. scratching the surface - deal with a matter only in the most superficial way
+272. 
+	- come by (somewhere)   - to visit a place for a short time, often when you are going somewhere else (Ex: I'll come by (the office/your house) one day this week and we can have a chat.)
+	- come by (something)   - to obtain something (Ex: A good boss is not so easy to come by. | Ex: It's unclear how he came by his wealth.)
+273. get by                 - to do the minimum amount of work required (Ex: I'm just getting by in my English class, because I never do my homework.)
+274. 
+	- make for (something)  - to be the one thing, or the most important thing (Ex: Everyone agreed that filming inside a chocolate factory would make for good television.)
+	- make for (somewhere/something) - to go directly toward someone or something (Ex: Make for the hills.)
+275. 
+	- go for (something)    - to like or admire something (Ex: I don’t go for action movies or romances)
+	- go for (somebody)     - to attack someone (Ex: Their dog had to be put to sleep after it went for the postwoman)
+276. withstand    - издържам; to be strong enough, or not be changed by something, or to oppose a person or thing successfully
+276. 
+	- put up (smth)          - to raise something to a higher position (Ex: I put my hands up. | Ex: A statue of him was put up in Gramercy Park.)
+	                         - to attach something, esp. to a wall (Ex: We put up some new pictures in the living room.)
+	                         - to build a structure in an empty space (Ex: They’re planning to put a hotel up where the museum used to be.)
+	                         - to show or express your feelings about something (Ex: Little Rory always puts up such a fuss around bedtime.) - Used when the feelings expressed are negative.
+	                         - to provide money so that an aim can be achieved (Ex: Dad put $1000 up to help me buy a car.)
+	                         - to show or express a particular type of opposition to something (Ex: Тhe villagers were unable to put up any resistance to the invading troops.)
+	- put up (someone)       - to provide someone with a place to stay temporarily (Ex: Sally is putting me up for the weekend.)
+277. 
+	- take up (smth)         - to begin to do something (Ex: I really like sports, so maybe i'll take up a new sport.)
+	- take up (smth)         - to discuss or manage something (Ex: The school plans to take the matter up with the parents.)
+	- take up with sb        - to become friendly or start a relationship with someone, especially someone who might have a bad influence on you. (Ех: She's taken up with a strange crowd of people.)
+278. 
+	- break into (smth)      - to begin suddenly to do something (Ex: He broke into a run, and we couldn’t catch him.)
+	- break into (smth)      - to force your way into something (Ex: He’s had his apartment broken into twice.)
+	- break into (smth)      - to begin being successful in a particular type of work or activity (Ex: Rising from humble beginnings, he succeeded in Hollywood, broke into politics, and became President.)
+279. 
+	- look into (smth)       - to examine the facts about a problem or situation (Ex: We're looking into the possibility of merging the two departments. | Ex: We're looking into buying a new computer.)
+	- look into (smth)       - to research something
+280. pull up   (smth)        - to get information, esp. on a computer screen (Ex: Click on a square to pull up an overview of the site with name, description, location, and domain.)
+281. 
+	- pick up (someone)      - to meet someone for the first time and begin having a romantic relationship
+	- pick up (smth)         - to obtain or receive something (Ex: While you’re in town, would you pick up a book for me?)
+	- pick up (smth)         - to start again after an interruption (Ex: In tomorrow's class we’ll pick up where we left off..)
+282. determined   - решителен, непоколебим (wanting to do something very much and not allowing anyone or any difficulties to stop you)
+283. 
+	- set on/upon sb - to attack someone (Ex: He was set upon by a vicious dog.)
+	- set on/upon sb - to surround or catch someone and prevent them from escaping (Ex: As he left the theatre, the singer was set upon by fans desperate for autographs.)
+--------------------
+284. keep on                - to continue (Ex: So, I want to encourage you to keep on going with your English fluency.)
+285. down time    - време за престой (break)
+286. waver /?we?.v?/
+	- to lose strength, determination, or purpose, especially temporarily (Ex: He has never wavered in his support for the leader.)
+	- If you waver between two possibilities, you cannot decide which of them to choose or you keep choosing one way and then the other (Ex: What are you going to have?" "Er, I'm wavering between the soup and the mushroom quiche.)
+287. draft          - чернова, предварителна версия
+288. dairy          - мандра (?de(?)re)
+289. satisfy        - задоволявам (content, please)
+290. detain         - задържам (някого) в ареста
+291. rust           - ръжда (corrosion)
+292. dispenser      - разпределител
+293. meek           - кротък, смирен (humble, quit)
+294. suffer         - страдам, търпя
+295. damage         - щета, повреда
+295. trousers       - панталони
+296. obtain         - to get something, especially by asking for it, buying it, working for it, or producing it from something else
+297. scratch        - драскотина, дращя
+298. snack          - леко похапване, закуска
+299. sugar cane     - захарна тръстика
+300. subway         - метро, подлез
+--------------------
+301. fuss
+	- (TOO MUCH OF A FEELING) a show of anger, worry, or excitement that is unnecessary or greater than the situation deserves (Ex: She made such a fuss when Richard spilled a drop of wine on her blouse!)
+	- (ATTENTION) attention given to small matters that are not important (Ex: The article was entitled "Making up with the minimum of fuss: a five-minute beauty routine that every busy woman should know".)
+302. invade         - нахлувам; to enter a country by force with large numbers of soldiers in order to take possession of it
+303. troops         - войска
+304. blast          - взрив, взирявам
+305. influence      - влияние, въздействие
+306. delight        - наслада, удоволствие
+307.                 
+	- examine        - to test someone's knowledge or skill in a particular subject (Ex: We were examined on European history.)
+	- examine        - to look at or consider a person or thing carefully and in detail in order to discover something about them (Ex: Forensic scientists are examining the wreckage for clues about the cause of the explosion.)
+308. forensic       - съдебен
+309. wreckage       - руини, останки
+310. clue           - улика
+311. vicious        - зъл, ужасен
+312. run into sb    - to meet someone you know when you are not expecting to (Ex: Graham ran into someone he used to know at school the other day.)
+313. 
+	- determination - the ability to continue trying to do something, although it is very difficult (Ех: I admired his drive and determination - he never gave up.)
+	- determination - an official judgement or decision (Ех: The court is required to issue a final determination on those issues by the end of the year.)
+	- determination - the process of controlling, influencing, or deciding something (Ех: The determination of policy is not your business - your job is to implement it.)
+314. whereabouts    - местонахождение
+315. considerate    - внимателен, мил
+--------------------
+316. sincere        - искрен
+317. frank          - откровен, исрен
+318. sneaky         - подъл
+319. open-minded    - непредубеден, без предрасъдъци
+320. unbiased       - безпристрастен
+321. strong-willed  - със силна воля
+322. irresolute     - нерешителен, колеблив, несигурен
+323. bright         - inteligent, quick to learn
+324. generous       - щедър
+325. miserly        - скръндза, скъперник
+326. procrastinate  - отлагам, бавя се
+327. seaweed        - морски водорасли
+328. perhaps        - може би
+--------------------
+329. amused         - развеселен (entertain - забавлявам)
+330. injure         - to hurt or cause physical harm to a person or animal (Ех: A bomb exploded at the embassy, injuring several people.)
+331. harm           - physical or other injury or damage
+332. slightly       
+	- (SMALL IN AMOUNT) a little (Ex: I'm slightly upset she forgot my birthday.)
+	- (THIN) Someone who is slightly built is thin and delicate
+333. delicate
+	- (EASILY DAMAGED) needing careful treatment, especially because easily damaged (Ex: Molly's health has always been delicate (= she gets sick easily).)
+	- needing to be done carefully (Ex: Repairing damaged nerves is a very delicate operation/process.)
+334. arrangement
+	- (PLAN) a plan for how something will happen (Ex: They'd made all the arrangements for the party.)
+	- an agreement between two people or groups about how something happens or will happen (Ex: We had an arrangement that he would clean the house and I would cook.)
+	- (POSITION)a group of objects that have been put in a particular order or position (Ex: There was a striking arrangement of dried flowers on the table.)
+	- (MUSIC) a piece of music that has had changes made to it so that it can be played in a different way, especially by different instruments (Ex: This new arrangement of the piece is for saxophone and piano.)
+335. appearance
+	- (BEING PRESENT) an occasion when someone appears in public (Ex: She will be making a public appearance, signing copies of her latest novel)
+	- an occasion when someone goes to court to be officially involved in a trial (Ex: This was the defendant's third court appearance for the same offence.)
+	- (WAY YOU LOOK) the way a person or thing looks to other people (Ex: You can alter/change the whole appearance of a room just by lighting it in a certain way.)
+336. offence
+	- (CRIME) an illegal act; a crime (Ex: Driving without a licence is an offence.)
+	- (UPSET FEELINGS)  upset and hurt or annoyed feelings, often because someone has been rude or shown no respect (Ex: Do you think he took offence (= was upset) at what I said about his hair?)
+337. involve        - включвам
+338. reveal
+	- to make known or show something that is surprising or that was previously secret
+	- to allow something to be seen that, until then, had been hidden
+339. thug           - a man who acts violently, especially to commit a crime
+340. smash
+	- (BREAK NOISILY) to cause something to break noisily into a lot of small pieces
+	- (MOVE FORCEFULLY) to cause something to move with great force against something hard, usually causing damage or injury
+	- (DEFEAT) to defeat someone or to destroy something completely
+	- (DO BETTER) to do much better than the best or fastest result recorded previously (Ех: Petersen smashed the 400 metres record by over half a second.)
+*341. defeat         - поражение
+342. rebellion      - бунт, въстание
+--------------------
+343. adolescent     - юноша, младеж
+344. aide           - помощник, съветник
+345. aircraft       - an airplane, helicopter, or other machine capable of flight
+346. jumbo 
+	- extremely large
+	- а jumbo jet is a very large aircraft that can fly long distances
+347. ban            - to forbid (= refuse to allow) something, especially officially (Ех. The film was banned (= the government prevented it from being shown) in several countries.)
+348. beside         - at the side of; next to
+349. capability     - способност
+350. capable        - опитен, надарен
+351. cluster        - a group of similar things or people positioned or occurring closely together
+352. commitment     - задължение
+353. willingness    - готовност
+354. compete        - състезавам се
+355. compose        - съчинявам, съставлявам
+356. depict         - рисувам, изобразявам
+--------------------
+357. concern       - загриженост
+*358. appeal        - искане, призоваване
+359. merit         - заслуга, качество
+360. intertwine    - преплитам, сплитам
+361. coin          - измислям
+362. tuning        - настройване
+363. straightforward- прост, ясен
+364. at first blush- на пръв поглед
+365. stroke        - удар
+366. vastly        - много
+367. astute        - проницателен
+368. endeavor      - усилие
+369. snap          - щракване, бързо, лесно
+370. spin up       - завъртам се
+--------------------
+371. neglect       - пренебрагване, небрежност
+372. behemoths     - гиганти
+373. front-runner  - първенец
+374. inclusive     - приобщаващ; който включва в себе си
+375. indispensable - необходим, задължителен
+376. emerge        - появявам се, възниквам
+377. disservice    - лоша услуга, вреда
+378. tie           - връзвам
+379. frustrating   - разочароващ
+380. leap          - скок, скачам
+381. thusly        - по следния начин
+382. oppose        - противопоставям се
+383. the bulk      - по-голямата част
+384. onward        - напред
+--------------------
+385. sophisticated - сложен
+386. carry away    - отнасям, завличам
+387. soil          - почва
+388. grumpy        - кисел, ядосан
+389. sting         - ужилване, жило
+390. blow out      - гася, издухвам
+391. moody         - в лошо настроение
+392. take part     - вземам участие, участвам
+393. pile          - куп, купчина
+394. slip          - хлъзгане, подлъзване
+395. tailor        - шивач
+396. dealer        - търговец
+397. valuable      - ценен, скъпоценен
+398. sit an exam   - do a test/an examination
+--------------------
+399. ancient       - древен
+400. make up       - измислям (invent - using my mind)
+401. favour        - 1. благосклонност, благоразположение; 2. услуга
+402. freckles      - лунички
+403. decade        - десетилетие, група от десет
+404. legacy        - завещание
+405. ashes         - пепел
+406. overcome      - преодолявам, побеждавам
+407. scar          - белег
+408. mistaken      - сбъркал, сгрешил
+409. vivid         - ярък, ясен
+410. vitalize      - обновявам, енергизирам
+411. admit         - признавам (confess)
+412. affectionate  - привързвам
+--------------------
+413. stock ticker  - фондова борса
+414. evident       - очевидно, ясно
+415. rough         - груп
+416. armed         - въоръжен
+417. bunch         - куп, китка
+418. trailing slash- наклонена черта
+419. convenience   - удобство
+420. distinguish   - разграничавам
+421. preference    - предпочитание
+422. yield         - добив, реколта
+423. essentially   - по същество
+424. rely          - разчитам, опозовавам се
+425. sufficient    - достатъчно
+426. dip           - потапям
+--------------------
+427. toes          - пръсти на краката
+428. in earnest    - сериозно
+429. adage         - поговорка
+430. take into account - вземам под внимание
+431. rote          - рутина
+432. outcome       - изход, резултат
+433. stir          - раздвижване, вълнение
+434. dwell         - обитавам, живея
+435. check out     - разглеждам
+436. concomitant   - едновременно
+437. vibrant       - жизнен, изпълнен с живот
+438. contribute    - допринасям
+439. intend        - възнамерявам
+440. handy place   - удобно място
+--------------------
+441. overall       - целостен, общ
+442. imply         - предполагам
+443. fragile       - чуплив, крехък
+444. prone         - склонен, предразположен
+445. shiver        - тръпка
+446. spine         - гръбначен стълб
+447. sticky        - лепкав
+448. well-funded   - добре финансиран
+449. adversary     - противник
+450. spring up     - пониква, появява се
+451. stretch       - опъвам, разтягам
+452. detriment     - вреда
+453. acquire       - придобивам, усвоявам
+454. regard        - уважавам, зачитам
+--------------------
+455. aesthetic     - естетически
+456. eschew        - отбягвам, въздържам се от
+457. distinction   - разграничение
+458. realm         - царство, област, сфера
+459. tailor        - приспособявам
+460. matter-of-fact- практично
+461. suite         - апартамент, комплект
+462. hassle        - караница, кавга
+463. opt           - избирам
+464. to stick      - придържам се
+465. retreat       - отстъпвам, оттеглям се
+466. retail        - продажба на дребно
+467. satisfaction  - удовлетворение
+468. impact        - въздействие
+--------------------
+469. glamor        - блясък,обаяние
+470. assist        - помагам
+471. penetration   - проникване, навлизане
+472. infant        - бебе, пеленаче
+473. involvement   - участие
+474. plot          - заговор
+475. parcel        - колет, пратка
+476. commodity     - стока, стока за широко потребление
+477. raw           - суров, необработен
+478. abrasion      - износване, изтриване
+479. sustainer     - опора
+480. redeemer      - спасител, избавител
+481. truck         - камион
+482. knock         - почукване, удър
+--------------------
+483. inescapable   - неизбежен
+484. drown out     - удавям
+485. shut out      - изолирам, не допускам да влезе
+486. unshakable    - непоклатим
+487. ceiling       - таван
+488. bouncing off  - отскачам, скачам
+489. heartbreak    - мъка
+490. stranger      - непознат
+491. pit           - яма
+492. figure out    - разбирам
+493. turn out      - оказва се
+494. ever since    - откакто
+495. stage fright  - сценична треска
+496. sword        - меч
+--------------------
+497. go down       - слизам
+498. womb          - утроба
+499. wilderness    - пустиня
+500. locust        - скакалец
+501. raging        - яростен, бесен
+502. craft         - правя (an activity involving skill in making things by hand)
+503. instant       - незабавен, миг
+504. intrusive     - напрапчив, досаден
+505. compliance    - съгласие
+506. conduct       - водене, ръководство, водя, завеждам
+507. executive     - изпълнителен, административен (having the power to put plans, actions, or laws into effect.)
+508. whistleblower - лице, подаващо сигнали (за нередности)
+509. utterly       - напълно, крайно, извънредно
+510. inadequate    - неадекватен, незадоволителен, непълен
+--------------------
+511. allegation    - твърдение, заявление, изявление
+512. former        - бивш
+513. bleat         - блея, говоря глупости
+514. reliably      - надеждно, сигурно
+515. considerably  - значително, доста, много
+516. comprehensive - подробен
+517. furthermore   - освен това
+518. whistle       - свирка, свиркам
+519. lack          - липсва
+520. foam          - пяна
+521. projectile    - снаряд
+522. incentive     - стимул
+523. delve         - ровя
+524. transmit      - предава, препраща
+--------------------
+525. fold          - сгъвам
+526. brokenness    - съкрушаване
+527. wound         - рана
+528. inflict       - причинявам
+529. pills         - хапчета
+530. pebble        - камъче
+531. bear          - търпя, понасям, нося
+532. point out     - посочвам
+533. wander        - скитам
+534. far away      - далеч
+535. pour out      - наливам
+536. bitter        - горчив
+538. shackle off   - откачам (вериги, окови)
+537. burden        - тежест, бреме
+--------------------
+539. captive       - пленник
+540. spring up     - пониква, расте
+541. evermore      - завинаги, навеки
+542. middleman     - посредник
+543. dour          - неуместен
+544. motion        - движение
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
