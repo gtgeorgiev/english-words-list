@@ -6,7 +6,6 @@
 6. encourage        - окуражавам
 7. intercept        - откъсване, отсечка, пресрещам, заобграждам
 8. derive           - извличам
---------------------
 9. connectivity     - свързаност
 10. diverse         - разнообразен
 11. enrich          - обогатявам
@@ -15,7 +14,6 @@
 14. detection       - откриване
 15. supply          - снабдяване, захранване 
 16. approach        - подход, доближавам, приближавам
---------------------
 17. collapse        - срутване, разпадане, рухвам, срутвам се
 18. padding         - подложка, подплънка
 19. retrieve        - извличам (get or bring (something) back; regain possession of.)
@@ -26,7 +24,6 @@
 24. hammer          - чук, кова
 25. hyphen          - слагам тире
 26. breakthrough    - пробив, важно научно откритие
---------------------
 27. anxious         - разтревожен, неспоен
 29. debt            - дълг
 30. interaction     - взаимодействие
@@ -50,7 +47,6 @@
 48. aim             - цел, стремеж, намерение (a purpose or intention; a desired outcome)
 49. engaging        - привлекателен
 *50. toward          - по посока на; към; going on; in progress (in the direction of)
---------------------
 *51. desperate       - отчаян, безнадежден
 52. perceive        - възприемам (become aware or conscious of (something); come to realize or understand)
 *53. aware           - осведомявам (having knowledge or perception of a situation or fact)
@@ -69,11 +65,10 @@
 64. struggle        - борба (a forceful or violent effort to get free of restraint or resist attack)
 65. forceful        - силен ((especially of a person or argument) strong and assertive; vigorous and powerful.)
 66. resist          - противопоставям се
---------------------
 67. secular         - светски (denoting attitudes, activities, or other things that have no religious or spiritual basis)
 68. denote          - обозначавам, означавам (be a sign of; indicate)
 69. attitude        - поведение (a settled way of thinking or feeling about someone or something, typically one that is reflected in a person's behavior)
-70. settle          - уреждам, настанявам, установявам (resolve or reach an agreement about (an argument or problem))
+*70. settle          - уреждам, настанявам, установявам (resolve or reach an agreement about (an argument or problem))
 71. disciple        - ученик, последовател
 72. flame           - пламък, огън
 73. wither          - посървам, вехна ((of a plant) become dry and shriveled.)
@@ -94,7 +89,6 @@
 88. deceive         - мамя, заблуждавам
 89. decouple        - разграничавам (separate, disengage, or dissociate (something) from something else)
 90. brace           - скоба, стягам
---------------------
 91. fetch           - донасям, отивам да взема
 92. ingenious       - изобретателен, остроумен, находчив ((of a person) clever, original, and inventive)
 93. chunk           - буца (дебела, солидна част от нещо)
@@ -112,7 +106,6 @@
 105. disappoint     - разочаровам
 106. launch         - хвърлям (lonCH)
 107. fate           - съдба, участ
---------------------
 108. attain         - to reach or succeed in getting something
 109. affinity       - афинитет (a spontaneous or natural liking or sympathy for someone or something)
 110. pivot          - опорна точка, ос на въртене, център
@@ -125,7 +118,6 @@
 117. accuse         - обвинявам
 118. consideration  - разглеждане, обсъждане (careful thought, typically over a period of time)
 119. propagate      - размножавам, плодя
---------------------
 120. certain        - определен, сигурен (known for sure; established beyond doubt)
 121. оverwhelmed    - изумявам
 122. absence        - отсъствие (?abs?ns)
@@ -137,7 +129,6 @@
 128. divide         - разделям, деля 
 129. tension        - напрежение
 130. tight          - стегнат
---------------------
 131. cast           - хвърлям, отливам (1. an object made by shaping molten metal or similar material in a mold; 2. an act of throwing something forcefully)
 132. chamber        - камера (a large room used for formal or public events)
 133. charity        - благотворителност 
@@ -152,7 +143,6 @@
 140. reward         - награда
 141. weave          - тъка, преплитам
 142. headline       - заглавие
---------------------
 143. make sense     - има смисъл, важно е
 144. pronunciation  - проинзношение
 145. vocabulary     - речник; богатство на думи, които човек има
@@ -165,10 +155,9 @@
 153. mention        - споменаване, посочване (a reference to someone or something.)
 152. meantime       - междувременно (meanwhile)
 154. melt           - стопявам, разтапям (an act of melting)
-155. compromise     - правя компромис 
---------------------
+155. compromise     - правя компромис
 156. adapt          - адптирам, приспособявам (make (something) suitable for a new use or purpose; modify)
-157. wipe           - изтривам, избърсвам (rub)
+*157. wipe           - изтривам, избърсвам (rub)
 158. peace of mind  - липса на притеснение (the absence of worry)
 159. I'm fond of    - обичам
 160. splendid       - прекрасно (magnificent; very impressive)
@@ -182,7 +171,6 @@
 168. common sense   - здрав разум (good sense and sound judgment in practical matters)
 169. matter         - значение, въпрос
 170. gumption       - съобразителност
---------------------
 171. shrewd         - хитър, проницателен
 172. sharp          - остър, рязък, ясен ((of an object) having an edge or point that is able to cut or pierce something)
 173. weary          - изтощен (exhausted)
@@ -199,7 +187,6 @@
 182. mood           - настроение
 183. accomplish     - постигам, реализирам, завършвам
 184. bond           - връзка, окови (physical restraints used to hold someone or something prisoner, especially ropes or chains.)
---------------------
 185. brief          - кратък, къс (of short duration) (bref)
 186. endless        - безкраен (having or seeming to have no end or limit.)
 189. got it         - сетих се; разбра ли? (по-тежко)
@@ -213,11 +200,10 @@
 	- a meeting, especially one that happens by chance (I had an alarming encounter with a wild pig)
 	- an occasion when two teams play against each other (In their last encounter with Italy, England won 3–2.)
 197. accommodation  - настаняване, квартира
-198. estimate       - приблизителна оценка, преценка
+*198. estimate       - приблизителна оценка, преценка
 199. blind          - сляп, щора
 200. indeed         - наистина (used to emphasize a statement or response confirming something already suggested)
---------------------
-201. justify        - оправдавам се, извинявам (show or prove to be right or reasonable)
+*201. justify        - оправдавам се, извинявам (show or prove to be right or reasonable)
 202. interrupt      - прекъсвам (stop the continuous progress of (an activity or process).)
 203. last long      - трае дълго, продължава дълго
 204. mindful        - загрижен, грижовен
@@ -231,7 +217,6 @@
 212. bishop         - епископ
 213. priest         - свещеник
 214. cope           - справям се ((of a person) deal effectively with something difficult)
---------------------
 215. crop           - реколта
 216. dining         - трапезария, вечерям
 217. tedious        - скучно, досадно (dull)
@@ -249,7 +234,6 @@
 226. pertain        - отнасям се, принадлежа
 227. appropriate    - подходяш, уместен (suitable or proper in the circumstances.)
 228. regression     - упадък
---------------------
 229. forecast       - прогноза, предвиждане
 230. extraction     - извличане, добиване (the action of taking out something, especially using effort or force.)
 231. incorporate    - включвам (take in or contain (something) as part of a whole; include)
@@ -264,7 +248,6 @@
 240. conclusion     - заключение (the end or finish of an event or process)
 241. considerable   - значителен, доста голям (notably large in size, amount, or extent)
 242. controversial  - спорен, дискусионен
---------------------
 243. convince       - убеждавам
 244. firmly         - твърдо, здраво
 245. dissatisfied   - недоволен, неудовлетворен
@@ -279,7 +262,6 @@
 254. doubt          - съмнение (a feeling of uncertainty or lack of conviction)
 255. uncertainty    - несигурност; unpredictability (the state of being uncertain)
 256. conviction     - убеждение; belief
---------------------
 257. held (hold)    - държа, задържам keep or detain (someone)
 258. unwaveringly   - непоколебимо (firmly, steadfastly)
 259. substitute     - заместител, заместник (replacement)
@@ -294,7 +276,6 @@
 268. profit         - gain, earnings (печалба)
 269. superficial    - повърхностен
 270. porch          - веранда, тераса
---------------------
 271. scratching the surface - deal with a matter only in the most superficial way
 272. 
 	- come by (somewhere)   - to visit a place for a short time, often when you are going somewhere else (Ex: I'll come by (the office/your house) one day this week and we can have a chat.)
@@ -335,7 +316,6 @@
 283. 
 	- set on/upon sb - to attack someone (Ex: He was set upon by a vicious dog.)
 	- set on/upon sb - to surround or catch someone and prevent them from escaping (Ex: As he left the theatre, the singer was set upon by fans desperate for autographs.)
---------------------
 284. keep on                - to continue (Ex: So, I want to encourage you to keep on going with your English fluency.)
 285. down time    - време за престой (break)
 286. waver /?we?.v?/
@@ -356,11 +336,10 @@
 298. snack          - леко похапване, закуска
 299. sugar cane     - захарна тръстика
 300. subway         - метро, подлез
---------------------
 301. fuss
 	- (TOO MUCH OF A FEELING) a show of anger, worry, or excitement that is unnecessary or greater than the situation deserves (Ex: She made such a fuss when Richard spilled a drop of wine on her blouse!)
 	- (ATTENTION) attention given to small matters that are not important (Ex: The article was entitled "Making up with the minimum of fuss: a five-minute beauty routine that every busy woman should know".)
-302. invade         - нахлувам; to enter a country by force with large numbers of soldiers in order to take possession of it
+*302. invade         - нахлувам; to enter a country by force with large numbers of soldiers in order to take possession of it
 303. troops         - войска
 304. blast          - взрив, взирявам
 305. influence      - влияние, въздействие
@@ -379,7 +358,6 @@
 	- determination - the process of controlling, influencing, or deciding something (Ех: The determination of policy is not your business - your job is to implement it.)
 314. whereabouts    - местонахождение
 315. considerate    - внимателен, мил
---------------------
 316. sincere        - искрен
 317. frank          - откровен, исрен
 318. sneaky         - подъл
@@ -393,7 +371,6 @@
 326. procrastinate  - отлагам, бавя се
 327. seaweed        - морски водорасли
 328. perhaps        - може би
---------------------
 329. amused         - развеселен (entertain - забавлявам)
 330. injure         - to hurt or cause physical harm to a person or animal (Ех: A bomb exploded at the embassy, injuring several people.)
 331. harm           - physical or other injury or damage
@@ -427,7 +404,6 @@
 	- (DO BETTER) to do much better than the best or fastest result recorded previously (Ех: Petersen smashed the 400 metres record by over half a second.)
 *341. defeat         - поражение
 342. rebellion      - бунт, въстание
---------------------
 343. adolescent     - юноша, младеж
 344. aide           - помощник, съветник
 345. aircraft       - an airplane, helicopter, or other machine capable of flight
@@ -444,9 +420,8 @@
 354. compete        - състезавам се
 355. compose        - съчинявам, съставлявам
 356. depict         - рисувам, изобразявам
---------------------
 357. concern       - загриженост
-*358. appeal        - искане, призоваване
+358. appeal        - искане, призоваване
 359. merit         - заслуга, качество
 360. intertwine    - преплитам, сплитам
 361. coin          - измислям
@@ -459,7 +434,6 @@
 368. endeavor      - усилие
 369. snap          - щракване, бързо, лесно
 370. spin up       - завъртам се
---------------------
 371. neglect       - пренебрагване, небрежност
 372. behemoths     - гиганти
 373. front-runner  - първенец
@@ -474,7 +448,6 @@
 382. oppose        - противопоставям се
 383. the bulk      - по-голямата част
 384. onward        - напред
---------------------
 385. sophisticated - сложен
 386. carry away    - отнасям, завличам
 387. soil          - почва
@@ -489,10 +462,9 @@
 396. dealer        - търговец
 397. valuable      - ценен, скъпоценен
 398. sit an exam   - do a test/an examination
---------------------
 399. ancient       - древен
 400. make up       - измислям (invent - using my mind)
-401. favour        - 1. благосклонност, благоразположение; 2. услуга
+*401. favour        - 1. благосклонност, благоразположение; 2. услуга
 402. freckles      - лунички
 403. decade        - десетилетие, група от десет
 404. legacy        - завещание
@@ -504,7 +476,6 @@
 410. vitalize      - обновявам, енергизирам
 411. admit         - признавам (confess)
 412. affectionate  - привързвам
---------------------
 413. stock ticker  - фондова борса
 414. evident       - очевидно, ясно
 415. rough         - груп
@@ -519,7 +490,6 @@
 424. rely          - разчитам, опозовавам се
 425. sufficient    - достатъчно
 426. dip           - потапям
---------------------
 427. toes          - пръсти на краката
 428. in earnest    - сериозно
 429. adage         - поговорка
@@ -534,7 +504,6 @@
 438. contribute    - допринасям
 439. intend        - възнамерявам
 440. handy place   - удобно място
---------------------
 441. overall       - целостен, общ
 442. imply         - предполагам
 443. fragile       - чуплив, крехък
@@ -549,7 +518,6 @@
 452. detriment     - вреда
 453. acquire       - придобивам, усвоявам
 454. regard        - уважавам, зачитам
---------------------
 455. aesthetic     - естетически
 456. eschew        - отбягвам, въздържам се от
 457. distinction   - разграничение
@@ -563,8 +531,7 @@
 465. retreat       - отстъпвам, оттеглям се
 466. retail        - продажба на дребно
 467. satisfaction  - удовлетворение
-468. impact        - въздействие
---------------------
+468. impact        - въздействие, влияние
 469. glamor        - блясък,обаяние
 470. assist        - помагам
 471. penetration   - проникване, навлизане
@@ -579,7 +546,6 @@
 480. redeemer      - спасител, избавител
 481. truck         - камион
 482. knock         - почукване, удър
---------------------
 483. inescapable   - неизбежен
 484. drown out     - удавям
 485. shut out      - изолирам, не допускам да влезе
@@ -593,8 +559,7 @@
 493. turn out      - оказва се
 494. ever since    - откакто
 495. stage fright  - сценична треска
-496. sword        - меч
---------------------
+496. sword         - меч
 497. go down       - слизам
 498. womb          - утроба
 499. wilderness    - пустиня
@@ -609,7 +574,6 @@
 508. whistleblower - лице, подаващо сигнали (за нередности)
 509. utterly       - напълно, крайно, извънредно
 510. inadequate    - неадекватен, незадоволителен, непълен
---------------------
 511. allegation    - твърдение, заявление, изявление
 512. former        - бивш
 513. bleat         - блея, говоря глупости
@@ -624,9 +588,9 @@
 522. incentive     - стимул
 523. delve         - ровя
 524. transmit      - предава, препраща
---------------------
 525. fold          - сгъвам
 526. brokenness    - съкрушаване
+527. wound         - рана
 527. wound         - рана
 528. inflict       - причинявам
 529. pills         - хапчета
@@ -639,7 +603,6 @@
 536. bitter        - горчив
 538. shackle off   - откачам (вериги, окови)
 537. burden        - тежест, бреме
---------------------
 539. captive       - пленник
 540. spring up     - пониква, расте
 541. evermore      - завинаги, навеки
@@ -650,25 +613,76 @@
 546. reach         - обсег, влияние
 547. walking into  - влизам в
 548. lungs         - бели дробове
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+549. introductory  - уводен
+550. despite       - въпреки, напук
+551. steeper       - стръмен
+552. inspection    - инспекция, преглед
+553. spreadsheet   - електронна таблица
+554. cumulative    - нарастващ
+555. spread out    - разпространявам
+556. data set      - набор от данни
+557. mimic         - имитирам, подражавам
+558. achievement   - постижение
+559. credential    - препоръчителен
+560. riches        - богатства
+561. well          - кладенец
+562. run dry       - пресъхвам
+563. status        - ранг
+564. outshine      - затъмнявам
+565. appealing     - привлекателен
+566. mileage       - километраж
+567. track         - проследявам, следя
+568. classifieds   - обяви
+569. approval      - одобрение
+570. cheered       - избухна в аплодисменти
+571. survey        - изследване
+572. univariate    - непроменлив
+573. continuous    - непрекъснат, постоянен
+574. keep track    - следя
+575. census        - проброяване на населението
+576. take place    - се осъществява
+578. precisely     - именно, точно
+579. summarize     - обобщавам
+580. occasionally  - от време на време
+581. brewery       - пивоварна
+582. domestic      - вътрешен, домашен
+583. adjacent      - съседен, близък (neighboring)
+584. embrace       - прегръдка, обятия
+585. rear          - заден, задна част
+586. twist         - извъртане, изкривяване, извивка
+587. grip          - хващене, дръжка, контрол
+588. curtains      - завеси, перде
+589. provision     - осигуряване
+590. fame          - слава, известност
+591. worn out      - износен, изтъркан (shabby)
+592. glimpse      - бегъл поглед, зърване
+593. clothe       - обличам (dress)
+594. righteousness- правда
+595. conquer      - завладявам, побеждавам
+596. tender       - предлагам, търг
+597. verge        - граница, край, предел
+598. breakdown    - повреда, авария
+599. let down     - разочаровам
+600. trade        - търгувам
+601. faithfulness - вярност, честност
+602. ravel        - изяснявам, разплитам
+603. clay         - глина
+604. set          - поставям
+605. lift up      - повдигам се
+606. cry out      - викам, извиквам
+607. unturned     - необърнат
+608. step out     - излизам
+609. stripe       - райе, ивица
+610. wear out     - изморен, износен
+611. long         - копнея, бленувам
+612. whisper      - шеопот
+613. drawing closer - приближавам се
+614. undone       - развързан, разкопчан, освободен
+615. lay down     - лягам
+616. rush         - втурвам се, бърз
+617. sweep        - метене, измитам
+618. showing off  - хваля се
+619. shackle      - оковавам, слагам белезници
 
 
 
