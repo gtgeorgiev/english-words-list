@@ -38,7 +38,7 @@
 39. grave           - гроб, гибел, сериозен, тежък
 40. guideline       - насока
 41. consumer        - консуматор, потребител
-*42. concerned       - обеспокоен, засегнат (worried, troubled, or anxious)
+42. concerned       - обеспокоен, засегнат (worried, troubled, or anxious)
 43. unlike          - за разлика от
 44. immerse         - потапям, заравям
 45. confident       - уверен, сигурен (feeling or showing confidence in oneself; self-assured)
@@ -46,21 +46,21 @@
 47. obvious         - очевидно, ясно (easily perceived or understood; clear, self-evident, or apparent)
 48. aim             - цел, стремеж, намерение (a purpose or intention; a desired outcome)
 49. engaging        - привлекателен
-*50. toward          - по посока на; към; going on; in progress (in the direction of)
-*51. desperate       - отчаян, безнадежден
+50. toward          - по посока на; към; going on; in progress (in the direction of)
+51. desperate       - отчаян, безнадежден
 52. perceive        - възприемам (become aware or conscious of (something); come to realize or understand)
-*53. aware           - осведомявам (having knowledge or perception of a situation or fact)
-*54. conscious       - в съзнание, съзнателен
+53. aware           - осведомявам (having knowledge or perception of a situation or fact)
+54. conscious       - в съзнание, съзнателен
 	- be conscious of sth/sb - to notice that a particular thing or person exists or is present (Ех: My tooth doesn't exactly hurt, but I'm conscious of it (= I can feel it) all the time.)
 	- awake, thinking, and knowing what is happening around you 
 55. awake           - буден (not asleep)
 56. asleep          - заспал (in or into a state of sleep)
 57. significant     - значим, важен (sufficiently great or important to be worthy of attention; noteworthy)
 58. intention       - намерение (a thing intended; an aim or plan) (in?tenCH?n)
-*59. charming        - очерователен (pleasant or attractive) (?CHarmiNG)
-*60. consent         - съгласие (permission for something to happen or agreement to do something)
+59. charming        - очерователен (pleasant or attractive) (?CHarmiNG)
+60. consent         - съгласие (permission for something to happen or agreement to do something)
 61. apparent        - очевидно (clearly visible or understood; obvious)
-*62. essential       - съществен, основен (absolutely necessary; extremely important)
+62. essential       - съществен, основен (absolutely necessary; extremely important)
 63. mature          - зрял, напълно развит (fully developed physically; full-grown)
 64. struggle        - борба (a forceful or violent effort to get free of restraint or resist attack)
 65. forceful        - силен ((especially of a person or argument) strong and assertive; vigorous and powerful.)
@@ -68,7 +68,7 @@
 67. secular         - светски (denoting attitudes, activities, or other things that have no religious or spiritual basis)
 68. denote          - обозначавам, означавам (be a sign of; indicate)
 69. attitude        - поведение (a settled way of thinking or feeling about someone or something, typically one that is reflected in a person's behavior)
-*70. settle          - уреждам, настанявам, установявам (resolve or reach an agreement about (an argument or problem))
+70. settle          - уреждам, настанявам, установявам (resolve or reach an agreement about (an argument or problem))
 71. disciple        - ученик, последовател
 72. flame           - пламък, огън
 73. wither          - посървам, вехна ((of a plant) become dry and shriveled.)
@@ -157,7 +157,7 @@
 154. melt           - стопявам, разтапям (an act of melting)
 155. compromise     - правя компромис
 156. adapt          - адптирам, приспособявам (make (something) suitable for a new use or purpose; modify)
-*157. wipe           - изтривам, избърсвам (rub)
+157. wipe           - изтривам, избърсвам (rub)
 158. peace of mind  - липса на притеснение (the absence of worry)
 159. I'm fond of    - обичам
 160. splendid       - прекрасно (magnificent; very impressive)
@@ -200,10 +200,10 @@
 	- a meeting, especially one that happens by chance (I had an alarming encounter with a wild pig)
 	- an occasion when two teams play against each other (In their last encounter with Italy, England won 3–2.)
 197. accommodation  - настаняване, квартира
-*198. estimate       - приблизителна оценка, преценка
+198. estimate       - приблизителна оценка, преценка
 199. blind          - сляп, щора
 200. indeed         - наистина (used to emphasize a statement or response confirming something already suggested)
-*201. justify        - оправдавам се, извинявам (show or prove to be right or reasonable)
+201. justify        - оправдавам се, извинявам (show or prove to be right or reasonable)
 202. interrupt      - прекъсвам (stop the continuous progress of (an activity or process).)
 203. last long      - трае дълго, продължава дълго
 204. mindful        - загрижен, грижовен
@@ -237,6 +237,7 @@
 229. forecast       - прогноза, предвиждане
 230. extraction     - извличане, добиване (the action of taking out something, especially using effort or force.)
 231. incorporate    - включвам (take in or contain (something) as part of a whole; include)
+*
 232. further        - допълнително, още 
 233. liking         - вкус, симпатия (taste, sympathy)
 234. refund         - възстановяване (на пари)
@@ -331,7 +332,7 @@
 294. suffer         - страдам, търпя
 295. damage         - щета, повреда
 295. trousers       - панталони
-296. obtain         - to get something, especially by asking for it, buying it, working for it, or producing it from something else
+296. obtain         - получавам (to get something, especially by asking for it, buying it, working for it, or producing it from something else)
 297. scratch        - драскотина, дращя
 298. snack          - леко похапване, закуска
 299. sugar cane     - захарна тръстика
@@ -339,7 +340,7 @@
 301. fuss
 	- (TOO MUCH OF A FEELING) a show of anger, worry, or excitement that is unnecessary or greater than the situation deserves (Ex: She made such a fuss when Richard spilled a drop of wine on her blouse!)
 	- (ATTENTION) attention given to small matters that are not important (Ex: The article was entitled "Making up with the minimum of fuss: a five-minute beauty routine that every busy woman should know".)
-*302. invade         - нахлувам; to enter a country by force with large numbers of soldiers in order to take possession of it
+302. invade         - нахлувам; to enter a country by force with large numbers of soldiers in order to take possession of it
 303. troops         - войска
 304. blast          - взрив, взирявам
 305. influence      - влияние, въздействие
@@ -402,7 +403,7 @@
 	- (MOVE FORCEFULLY) to cause something to move with great force against something hard, usually causing damage or injury
 	- (DEFEAT) to defeat someone or to destroy something completely
 	- (DO BETTER) to do much better than the best or fastest result recorded previously (Ех: Petersen smashed the 400 metres record by over half a second.)
-*341. defeat         - поражение
+341. defeat         - поражение
 342. rebellion      - бунт, въстание
 343. adolescent     - юноша, младеж
 344. aide           - помощник, съветник
@@ -413,7 +414,7 @@
 347. ban            - to forbid (= refuse to allow) something, especially officially (Ех. The film was banned (= the government prevented it from being shown) in several countries.)
 348. beside         - at the side of; next to
 349. capability     - способност
-350. capable        - опитен, надарен
+350. capable        - способен (competent, able)
 351. cluster        - a group of similar things or people positioned or occurring closely together
 352. commitment     - задължение
 353. willingness    - готовност
@@ -464,7 +465,7 @@
 398. sit an exam   - do a test/an examination
 399. ancient       - древен
 400. make up       - измислям (invent - using my mind)
-*401. favour        - 1. благосклонност, благоразположение; 2. услуга
+401. favour        - 1. благосклонност, благоразположение; 2. услуга
 402. freckles      - лунички
 403. decade        - десетилетие, група от десет
 404. legacy        - завещание
@@ -675,7 +676,7 @@
 609. stripe       - райе, ивица
 610. wear out     - изморен, износен
 611. long         - копнея, бленувам
-612. whisper      - шеопот
+612. whisper      - шеопот, шепна
 613. drawing closer - приближавам се
 614. undone       - развързан, разкопчан, освободен
 615. lay down     - лягам
@@ -683,6 +684,131 @@
 617. sweep        - метене, измитам
 618. showing off  - хваля се
 619. shackle      - оковавам, слагам белезници
+620. shipment     - пратка
+621. departure    - тръгване
+622. depart       - заминавам
+623. dispatch     - изпращам
+624. canvas       - платно, платнище
+625. resemble     - приличам на
+626. narrative    - разказ
+627. pick         - избирам, подбирам, бера
+628. attendant    - придружител
+629. feast        - пир, празник
+630. deafening    - оглушителен, заглушаващ (very noisy)
+631. excruciating - мъчителен (very painful)
+632. pale         - блед, прибледнявам
+633. ashen        - бледен, пепелив (very pale)
+634. flawless     - безупречен, без недостатък (very perfect)
+635. destitute    - лишен, беден (very poor)
+636. compelling   - завладяващ, непреодолим (very powerful)
+637. oblige       - задължавам
+638. sanctification - освещение
+639. timber         - дървен материал
+640. flaw           - недостатък
+641. lossless       - без загуба на качеството
+642. deny           - отричам
+643. along          - заедно
+644. marching       - маршируване
+645. tomb           - гробница
+646. laid           - полагам
+647. roll away      - търкаля се
+648. sorrow         - скръб, печал
+649. captivate      - покорявам
+650. behold         - виждам, съзирам
+651. illuminate     - озарявам, осветявам
+652. shatter        - разбавам, разтрошавам
+653. bound          - свързан, обвързан
+654. mend           - поправям
+655. insult          - обида
+656. syllable       - сричка
+657. applicable     - приложим, практичен
+658. regret         - съжаление, разкаяние, скръб
+659. hound          - преследвам безмилостно
+660. bend           - извивам
+661. mundane        - земен, светски
+662. bow            - прекланям се
+663. lest           - да не би да
+664. everlasting    - вечен
+665. preamble       - предисловие, увод
+666. purchase       - покупка, купувам
+667. brave          - смел, храбър
+668. bleed          - кървя
+669. neural         - нервен, неврален
+700. probability    - вероятност
+*701. convolution    - навиване
+702. trade off      - баланс, постигнат между две желани, но несъвместими характеристики; компромис
+703. frightening    - плашещо
+704. scenic         - панорамен, живописен
+705. bulletproof    - непробиваем от куршуми
+706. receipt        - разписка, касова бележка
+707. a way off      - далече
+708. entrance       - вход
+709. anticipation   - очакване
+710. swell          - издуване, увеличаване
+711. drawn          - измъчен
+712. stronghold     - укрепление
+713. cottage        - къщичка
+714. overdue        - просрочен
+715. parchment      - пергамент, документ
+716. madness        - лудост
+717. defer          - отлагам, отсрочвам
+718. commander      - командир
+719. competitive    - конкурентен, състезателен
+720. competitor     - конкурент, съперник
+721. enroll         - записвам се, записвам се в списък
+722. minor         - незначителен
+723. tackle        - спаравям се
+724. awkward       - неудобно, трудно
+725. deviation     - отклонение
+726. annual        - годишен
+727. observation   - наблюдение
+728. gatherer      - събирач (collector)
+729. tend          - склонен
+730. hose          - маркуч
+731. imminent      - предстоящ (about to happen)
+732. consumption   - потребление
+733. fraud         - измама (cheating)
+734. preface       - предговор
+735. lust          - поход
+736. intrinsically - неразривно
+737. predictor     - предсказател
+738. bias          - склонност
+739. fairer        - справедлив, честен
+740. truncate     - скъсявам
+741. accuracy     - точност, прецизност
+742. receptacle   - съд, контейнер
+743. bin          - a receptacle for storing a specified substance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
